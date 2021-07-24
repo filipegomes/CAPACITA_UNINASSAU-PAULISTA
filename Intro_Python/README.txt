@@ -1,1 +1,0 @@
-Curso Introdutório de Python.
